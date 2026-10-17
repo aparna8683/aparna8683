@@ -1,15 +1,15 @@
 <!-- Animated profile header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=190&section=header&text=Aparna%20Singh&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=58" alt="Aparna Singh animated header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=190&section=header&text=Aparna%20Singh&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Final-Year%20B.Tech%20%7C%20JavaScript%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=15&descAlignY=58" alt="Aparna Singh animated header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+useful+software%2C+one+commit+at+a+time;Exploring+AI%2C+web+development+%26+automation;Turning+ideas+into+working+projects;Always+learning.+Always+building." alt="Animated typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=JavaScript+is+my+primary+language;Building+full-stack+and+AI-powered+applications;Learning+through+open-source+contributions;Always+learning.+Always+building." alt="Animated typing introduction"/>
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aparna8683&style=for-the-badge&color=4338ca&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration"/>
+  <img src="https://img.shields.io/badge/Final%20Year-B.Tech-7C3AED?style=for-the-badge" alt="Final year B.Tech"/>
 </p>
 
 <a href="https://www.linkedin.com/in/aparna-singh-371270276/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -22,13 +22,13 @@
 
 ## 👋 About Me
 
-🎓 I'm a 2nd-year AIML undergraduate interested in building intelligent, useful, and scalable applications.
+🎓 I'm a **final-year B.Tech student** focused on software development, full-stack engineering, and AI-powered applications.
 
-- 🤖 Exploring AI/ML, AI-powered tools, and intelligent automation.
-- 🌐 Building full-stack applications and responsive web experiences.
-- 🧩 Practicing data structures, algorithms, and problem-solving.
-- 🛠️ I enjoy learning by building, debugging, and improving real projects.
-- 🤝 Interested in open-source contributions and collaborative projects.
+- 💛 **JavaScript is my primary and most-used programming language.**
+- 🌐 Build full-stack applications with React, Node.js, and Express.
+- 🤖 Explore AI integrations, browser automation, and intelligent developer tools.
+- 🧩 Practice data structures, algorithms, and software engineering fundamentals.
+- 🤝 Interested in open-source collaboration and building useful products.
 
 ---
 
@@ -36,26 +36,26 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Python, C++, JavaScript, HTML and CSS icons"/>
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" alt="JavaScript, C++, Python, HTML and CSS icons"/>
 </p>
 
-### Frontend & Backend
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&theme=dark" alt="React, Vite, Node.js and Express icons"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" alt="React, Vite, HTML and CSS icons"/>
 </p>
 
-### Databases & Developer Tools
+### Backend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,vscode&theme=dark" alt="MongoDB, Supabase, Git, GitHub and VS Code icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" alt="Node.js, Express, MongoDB and Supabase icons"/>
 </p>
 
-### AI, Automation & Other Technologies
+### Tools & Technologies
 <p>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white" alt="AI and machine learning"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code icons"/>
+  <img src="https://img.shields.io/badge/Playwright-Browser%20Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Integrations-7C3AED?style=for-the-badge" alt="AI and machine learning"/>
   <img src="https://img.shields.io/badge/OCR-Tesseract.js-0D9488?style=for-the-badge" alt="OCR and Tesseract.js"/>
-  <img src="https://img.shields.io/badge/Browser%20Automation-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-6D5BD0?style=for-the-badge" alt="Model Context Protocol"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563EB?style=for-the-badge" alt="REST APIs"/>
 </p>
 
 ---
@@ -65,38 +65,66 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/aparna8683/Soul_Clone_AI">SoulClone AI</a></h3>
+      <p>An AI-powered website recreation system that transforms a public website URL into a new React/Vite implementation.</p>
+      <ul>
+        <li>Playwright-powered website analysis</li>
+        <li>AI-assisted React generation</li>
+        <li>Visual comparison and bounded self-repair</li>
+        <li>Build validation and local preview</li>
+      </ul>
+      <p><sub>JavaScript · React · Vite · Node.js · Express · Playwright · Groq</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>♿ <a href="https://github.com/aparna8683/SEEMATE-AI">SeeMate AI</a></h3>
       <p>A voice-first accessibility prototype for blind and low-vision users.</p>
       <ul>
         <li>Camera and photo input</li>
         <li>Browser-side OCR and text-to-speech</li>
-        <li>React + Vite frontend and Express backend</li>
+        <li>React frontend and Express backend</li>
         <li>MCP tools for accessible reading guidance</li>
       </ul>
-      <p><sub>React · Vite · JavaScript · Express · OCR · MCP</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/aparna8683/Soul_Clone_AI">SoulClone AI</a></h3>
-      <p>An AI-powered website recreation system that turns a public URL into a new React/Vite implementation.</p>
-      <ul>
-        <li>Website and responsive-layout analysis</li>
-        <li>AI-assisted React generation</li>
-        <li>Playwright browser automation</li>
-        <li>Build validation and visual comparison</li>
-      </ul>
-      <p><sub>React · Vite · Node.js · Express · Playwright · Groq API</sub></p>
+      <p><sub>JavaScript · React · Vite · Express · OCR · MCP</sub></p>
     </td>
   </tr>
 </table>
 
 ### More projects
-- 🏫 [Enhanced Classroom Project](https://github.com/aparna8683/Enhanced-Classroom-Project) — classroom workflows and attendance features.
-- 🩺 [Doctor Appointment](https://github.com/aparna8683/Dr-Appointment) — appointment-booking application.
-- 🎮 [Ludo Game / React practice](https://github.com/aparna8683/React) — explore my frontend learning and experiments.
+- 🏫 [Enhanced Classroom Project](https://github.com/aparna8683/Enhanced-Classroom-Project)
+- 🩺 [Doctor Appointment System](https://github.com/aparna8683/Dr-Appointment)
+- 💰 [FinTrack](https://github.com/aparna8683/FinTrack)
+- 🛍️ [Commerce](https://github.com/aparna8683/commerce)
+- 🎮 [React learning and experiments](https://github.com/aparna8683/React)
 
 <a href="https://github.com/aparna8683?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
+
+---
+
+## 🌍 Open-Source Contributions
+
+I have contributed bug fixes and feature improvements through pull requests across my projects and external repositories.
+
+### Merged pull requests
+
+**SoulClone AI — 8 merged PRs**
+- [#9 — Fix source content preservation and AI modifications](https://github.com/aparna8683/Soul_Clone_AI/pull/9)
+- [#8 — High-fidelity website reconstruction pipeline](https://github.com/aparna8683/Soul_Clone_AI/pull/8)
+- [#7 — Reduce Groq token usage and handle quota errors](https://github.com/aparna8683/Soul_Clone_AI/pull/7)
+- [#6 — Add visual diff and self-repair loop](https://github.com/aparna8683/Soul_Clone_AI/pull/6)
+- [#5 — Fix semantic asset mapping](https://github.com/aparna8683/Soul_Clone_AI/pull/5)
+- [#4 — Improve visual website reconstruction](https://github.com/aparna8683/Soul_Clone_AI/pull/4)
+- [#2 — Add visual website recreation pipeline](https://github.com/aparna8683/Soul_Clone_AI/pull/2)
+- [#1 — Stabilize generated UI pipeline](https://github.com/aparna8683/Soul_Clone_AI/pull/1)
+
+**External open-source contribution**
+- [Anime-Ecstasy #28 — Fix anime crash when data is undefined](https://github.com/Chandu6702/Anime-Ecstasy/pull/28) — merged into the `test` branch.
+
+**Other PR activity**
+- [yes-ui-vite #11 — Profile avatar feature](https://github.com/NavalInnovators/yes-ui-vite/pull/11) — closed without merge.
+- [SoulClone AI #3 — Windows preview server launch](https://github.com/aparna8683/Soul_Clone_AI/pull/3) — superseded by PR #4.
+- [Vercel Commerce #1481 — Contributor-name change](https://github.com/vercel/commerce/pull/1481) — open; not yet merged.
 
 ---
 
@@ -123,13 +151,12 @@
 
 ## 🌱 Currently Learning
 
-- AI/ML concepts and practical applications
-- Data structures and algorithms
-- Open-source collaboration and software engineering best practices
+- Advanced JavaScript and full-stack development
+- AI-powered software and automation
+- Data structures, algorithms, and system design
+- Open-source collaboration and engineering best practices
 
 ## 🤝 Let's Connect
-
-I'm always happy to connect with developers, collaborate on projects, and learn from the community.
 
 <div align="center">
 
